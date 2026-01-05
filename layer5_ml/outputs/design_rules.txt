@@ -1,0 +1,12 @@
+Feature importance ranking:
+  stiffness: 0.503
+  oxide_thickness: 0.497
+  energy: 0.000
+  failure_strain: 0.000
+
+Optimal design point:
+  energy: 47040635.996021
+  failure_strain: 0.0204081632653061
+  oxide_thickness: 0.0
+  stiffness: 8000.0
+  failure_risk: 0.8
