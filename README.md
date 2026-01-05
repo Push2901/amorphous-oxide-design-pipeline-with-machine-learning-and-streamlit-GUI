@@ -1,0 +1,3 @@
+A computational study of how disorder, hydrogen incorporation, and interlayer thickness in amorphous silicon-oxide–polymer interfaces influence mechanical robustness and functional reliability, using physics-inspired simulation and machine learning.
+
+This work is a computational abstraction inspired by recent advances in thin-film materials research, and does not replicate or reproduce any specific experimental system.

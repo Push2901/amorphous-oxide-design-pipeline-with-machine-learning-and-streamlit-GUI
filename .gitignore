@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+amvenv/
+
+# C / Java build artifacts
+*.o
+*.exe
+bin/
+
+# Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary
+*.log
